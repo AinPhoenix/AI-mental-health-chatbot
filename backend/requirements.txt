@@ -1,0 +1,6 @@
+Flask
+flask-cors
+pdfplumber
+faiss-cpu
+sentence-transformers
+requests
